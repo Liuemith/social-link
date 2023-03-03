@@ -2,6 +2,7 @@
 
 * {
   font-family: "Raleway", sans-serif;
+  font-size: medium;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -10,8 +11,7 @@
   border: none;
   outline: none;
 
-  background-color: #f3f3f3;
-}
+ }
 
 footer {
   height: 100%;
